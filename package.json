@@ -1,0 +1,25 @@
+{
+  "name": "tab-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrotop/Tab-News.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrotop/Tab-News/issues"
+  },
+  "homepage": "https://github.com/leandrotop/Tab-News#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
